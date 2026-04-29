@@ -1,6 +1,4 @@
-# Awesome Ecommerce Subreddits
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Ecommerce Subreddits [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The communities where DTC buyers compare brands, demand evidence, hand out and revoke recommendations, and decide which products earn a place in the canon. Curated for VPs of Marketing, brand directors, and founder-marketers at consumer brands who'd rather understand the room than barge into it.
 
@@ -15,20 +13,20 @@ The communities where DTC buyers compare brands, demand evidence, hand out and r
 - [Who this list is for](#who-this-list-is-for)
 - [How we picked these eight](#how-we-picked-these-eight)
 - [The shortlist](#the-shortlist)
-  1. [r/BuyItForLife](#1-rbuyitforlife)
-  2. [r/SkincareAddiction](#2-rskincareaddiction)
-  3. [r/streetwear](#3-rstreetwear)
-  4. [r/Frugal](#4-rfrugal)
-  5. [r/femalefashionadvice](#5-rfemalefashionadvice)
-  6. [r/MakeupAddiction](#6-rmakeupaddiction)
-  7. [r/malefashionadvice](#7-rmalefashionadvice)
-  8. [r/beauty](#8-rbeauty)
+  - [r/BuyItForLife](#rbuyitforlife)
+  - [r/SkincareAddiction](#rskincareaddiction)
+  - [r/streetwear](#rstreetwear)
+  - [r/Frugal](#rfrugal)
+  - [r/femalefashionadvice](#rfemalefashionadvice)
+  - [r/MakeupAddiction](#rmakeupaddiction)
+  - [r/malefashionadvice](#rmalefashionadvice)
+  - [r/beauty](#rbeauty)
 - [Posting playbook for DTC and ecommerce brands](#posting-playbook-for-dtc-and-ecommerce-brands)
 - [FAQ](#faq)
 - [Subreddits we considered and didn't include](#subreddits-we-considered-and-didnt-include)
 - [Further reading](#further-reading)
 - [Related lists](#related-lists)
-- [License](#license)
+- [Live version with brand-mention data](#live-version-with-brand-mention-data)
 
 ---
 
@@ -59,9 +57,9 @@ Order is by editorial priority for a DTC marketer, not by member count.
 
 ## The shortlist
 
-### 1. r/BuyItForLife
+### r/BuyItForLife
 
-**~3.4M subscribers · [reddit.com/r/BuyItForLife](https://www.reddit.com/r/BuyItForLife/)**
+~3.4M subscribers · [reddit.com/r/BuyItForLife](https://www.reddit.com/r/BuyItForLife/)
 
 The single most important sub on this list and the most dangerous to get wrong. Founded 2009, grown rapidly on the back of TikTok-driven anti-consumption interest. Tagline: "Durable, Quality, Practical."
 
@@ -71,9 +69,9 @@ The single most important sub on this list and the most dangerous to get wrong. 
 
 ---
 
-### 2. r/SkincareAddiction
+### r/SkincareAddiction
 
-**~1.4–2M subscribers · [reddit.com/r/SkincareAddiction](https://www.reddit.com/r/SkincareAddiction/)**
+~1.4–2M subscribers · [reddit.com/r/SkincareAddiction](https://www.reddit.com/r/SkincareAddiction/)
 
 The largest dermatology-leaning consumer community on Reddit and the canonical case study for brand-as-community-listener that worked. CeraVe Moisturizing Cream is so dominant on the sub it's literally known as "the tub." Paula's Choice 2% BHA is an institutional recommendation. Routine threads cite specific products by name dozens of times per day.
 
@@ -83,9 +81,9 @@ The largest dermatology-leaning consumer community on Reddit and the canonical c
 
 ---
 
-### 3. r/streetwear
+### r/streetwear
 
-**~4.6M subscribers · [reddit.com/r/streetwear](https://www.reddit.com/r/streetwear/)**
+~4.6M subscribers · [reddit.com/r/streetwear](https://www.reddit.com/r/streetwear/)
 
 Reddit's largest streetwear community and one of the friendliest active fashion subs. Mod culture is intentionally anti-toxic. Mod u/devastationz: "Because it's people taking pictures of their outfits, it forces you to be genuine." Mod u/zacheadams: "I believe everyone wants to see everyone else succeed."
 
@@ -95,9 +93,9 @@ Reddit's largest streetwear community and one of the friendliest active fashion 
 
 ---
 
-### 4. r/Frugal
+### r/Frugal
 
-**~3M subscribers · [reddit.com/r/Frugal](https://www.reddit.com/r/Frugal/)**
+~3M subscribers · [reddit.com/r/Frugal](https://www.reddit.com/r/Frugal/)
 
 The anti-brand sub that nonetheless drives massive purchase intent. Self-promotion is essentially banned outright. Coupon-only posts get killed. Anything that links to a deal site gets killed. AutoMod also kills "lifestyle" posts that don't include a specific frugal tactic.
 
@@ -107,9 +105,9 @@ The anti-brand sub that nonetheless drives massive purchase intent. Self-promoti
 
 ---
 
-### 5. r/femalefashionadvice
+### r/femalefashionadvice
 
-**~3.5M subscribers · [reddit.com/r/femalefashionadvice](https://www.reddit.com/r/femalefashionadvice/)**
+~3.5M subscribers · [reddit.com/r/femalefashionadvice](https://www.reddit.com/r/femalefashionadvice/)
 
 The relevant women's fashion community and a genuinely active brand-discussion sub, despite being smaller than its menswear counterpart. Strict on flair, photo quality, and recurring-thread routing.
 
@@ -119,9 +117,9 @@ The relevant women's fashion community and a genuinely active brand-discussion s
 
 ---
 
-### 6. r/MakeupAddiction
+### r/MakeupAddiction
 
-**~3.2M subscribers · [reddit.com/r/MakeupAddiction](https://www.reddit.com/r/MakeupAddiction/)**
+~3.2M subscribers · [reddit.com/r/MakeupAddiction](https://www.reddit.com/r/MakeupAddiction/)
 
 Photo-first community for makeup tutorials, looks, and FOTDs (face of the day). Strict no-photo-editing rule (no Facetune, no filters, no background editing). The sub is famous in Reddit-meta circles for the 2019 mod self-implosion, when a community drama escalated into the entire mod team stepping down, with one mod posting, "I'm here to announce that I'm stepping down as a reddit moderator. I went to therapy today." The episode became a case study in why brand teams should never assume volunteer mod teams are stable.
 
@@ -131,9 +129,9 @@ Photo-first community for makeup tutorials, looks, and FOTDs (face of the day). 
 
 ---
 
-### 7. r/malefashionadvice
+### r/malefashionadvice
 
-**~6.3M subscribers · [reddit.com/r/malefashionadvice](https://www.reddit.com/r/malefashionadvice/)**
+~6.3M subscribers · [reddit.com/r/malefashionadvice](https://www.reddit.com/r/malefashionadvice/)
 
 The largest community on this list by member count and the most cautionary tale. Founded 2009 with anti-elitist beginner-advice mission. Catastrophically disrupted in July 2023 when, per [TechCrunch](https://techcrunch.com/2023/08/09/reddit-male-fashion-advice-mod-take-over-api-protest/), Reddit's "ModCodeofConduct" account removed the entire long-tenured mod team during the API protest and replaced them with appointees who in some cases "had been previously banned from the community." Fashion writer Derek Guy (the "menswear guy" on Twitter) told TechCrunch, "you can't replicate nerds who spend hours every day moderating debates about pants." Roughly 90% of regular contributors moved off Reddit to Discord and Substack.
 
@@ -143,9 +141,9 @@ The largest community on this list by member count and the most cautionary tale.
 
 ---
 
-### 8. r/beauty
+### r/beauty
 
-**~489K subscribers · [reddit.com/r/beauty](https://www.reddit.com/r/beauty/)**
+~489K subscribers · [reddit.com/r/beauty](https://www.reddit.com/r/beauty/)
 
 The smallest sub on this list and the most miscellaneous. General-purpose: skincare, makeup, hair, body care. Lighter mod touch than the addiction-named subs.
 
@@ -177,32 +175,25 @@ The honest summary: Reddit works for DTC and ecommerce brands, but the timeline 
 
 ## FAQ
 
-### Why isn't r/AsianBeauty on this list?
-
+### Why isn't r/AsianBeauty on this list
 It probably should be. r/AsianBeauty (~3.7M members) is the strongest K-beauty and J-beauty discovery sub and the Daily Help Thread alone generates hundreds of product recommendations daily. It's missing from soar's current shortlist, and we'd add it as a 9th sub for any beauty-focused expansion. If your brand sells into AAPI or K-beauty-adjacent categories, treat r/AsianBeauty as a priority alongside r/SkincareAddiction.
 
-### Should I run a brand AMA in r/SkincareAddiction or r/MakeupAddiction?
-
+### Should I run a brand AMA in r/SkincareAddiction or r/MakeupAddiction
 Only with explicit mod coordination weeks in advance and a real subject-matter expert (a chemist, a dermatologist, your founder if they have credentials worth defending). Walk-on AMAs from corporate accounts get removed before they go live. The SkinCeuticals dermatologist AMA is the proof point that this format can work with the right setup. The wrong setup produces a public flogging that lives in Google forever.
 
-### What's the realistic timeline before Reddit drives measurable revenue for a DTC brand?
-
+### What's the realistic timeline before Reddit drives measurable revenue for a DTC brand
 Six to twelve months from first organic mention to measurable last-touch revenue, longer for first-touch attribution. The compounding asset is search presence: Reddit threads ranking for your category queries drive traffic for years. Replyagent's [DTC guide](https://www.replyagent.ai/blog/selling-on-reddit-complete-guide-dtc-ecommerce-brands) frames it as "the compounding nature of Reddit means early investment pays dividends forever." If your runway is shorter than six months, run Reddit Ads for the AI-search and brand-mention amplification while building organic in parallel.
 
-### Can I just run Reddit Ads instead of organic?
-
+### Can I just run Reddit Ads instead of organic
 Yes, and many brands should. Reddit's Brand Lift studies report ad awareness 5x higher and aided brand awareness 14x higher than their CPG benchmark. Sponsored megathread products (a paid version of the SkinCeuticals AMA format) are increasingly available for beauty brands. The trap is treating Reddit Ads like LinkedIn Ads with corporate-style creative; the sub's audience eats that for breakfast. Use Reddit-native creative (screenshot styles, in-jokes, problem-statement copy) or skip the ads.
 
-### What gets a DTC brand permabanned?
-
+### What gets a DTC brand permabanned
 Three patterns, in order of frequency: (1) creating sock-puppet accounts to post or upvote your own product (vote manipulation, the most severe site-wide offense), (2) paying influencers to post without disclosure, and (3) mod payola, the scenario the r/SkincareAddiction 2015 scandal exemplified. The first two are detected by Reddit admins via account-correlation tooling; the third is detected by other mods and the wider Reddit-meta community.
 
-### Does Reddit work for enterprise/established CPG brands the same way it works for DTC?
-
+### Does Reddit work for enterprise/established CPG brands the same way it works for DTC
 No, and brands often miss this distinction. The DTC playbook (own a subreddit, run light-touch moderation, do a regular AMA) breaks down at the P&G or Unilever scale because every product line is a different brand and the parent corporate identity is itself a sentiment liability. Coca-Cola's 2024 and 2025 AI-generated holiday ads were dragged across Reddit and called "soulless"; P&G has been hit with sustained Reddit critique for supply-chain controversies without ever showing up in the conversation. We cover this dynamic in detail in the [awesome-consumer-brand-subreddits](https://github.com/soarsh/awesome-consumer-brand-subreddits) list, which is the right resource for established CPG marketers.
 
-### Is r/BuyItForLife really worth investing in if half the sub thinks it's astroturfed?
-
+### Is r/BuyItForLife really worth investing in if half the sub thinks it's astroturfed
 Yes, with two caveats. The astroturfing critique is real (and ongoing), but it's a critique of *seeding behavior*, not of the sub's value as a brand-recommendation surface. The sub still drives major search and AI-citation lift for brands that legitimately belong in the BIFL canon. The two caveats: (1) you cannot manufacture entry; only durability over years earns the unprompted shoutout, and (2) any seeding attempt is asymmetrically risky given the community's vigilance. If your warranty and repair program are real, this is the highest-leverage organic surface in DTC. If they're not, leave it alone.
 
 ---
@@ -225,22 +216,22 @@ A note on what's not here and why, since most "best of" lists don't show their w
 
 ## Further reading
 
-- [WWD: Reddit's Transformation From Snarky Reviews to Beauty Marketing Tool](https://wwd.com/beauty-industry-news/beauty-features/reddit-transformation-fsnarky-reviews-beauty-marketing-tool-1238553633/). The most-cited piece on the beauty-Reddit shift, with named brand quotes from L'Oréal and Dove.
-- [Glossy: The Reddit Beauty Opportunity](https://www.glossy.co/beauty/the-reddit-beauty-opportunity-%EF%BF%BC/). Industry-side take with brand-level participation framing.
-- [Klarna and Reddit: Most Popular BIFL Items of 2023](https://www.klarna.com/international/press/klarna-and-reddit-unveil-the-most-popular-buy-it-for-life-items-of-2023/). The canonical BIFL brand list, sourced from sub data.
-- [TechCrunch: Reddit's menswear hub is the latest casualty of its battle with moderators](https://techcrunch.com/2023/08/09/reddit-male-fashion-advice-mod-take-over-api-protest/). The Derek Guy quote and the r/MFA mod-takeover history.
-- [Hacker News: r/BuyItForLife discussion](https://news.ycombinator.com/item?id=40306193). The persistent astroturfing critique, on the record.
-- [The Snapping Point: r/SkincareAddiction mod payola scandal](https://thesnappingpoint.com/r-skincareaddiction-scam-reddit-ieatbugs/). The 2015 case study every brand-on-Reddit conversation should reference.
-- [Replyagent: Selling on Reddit Complete Guide for DTC & Ecommerce Brands](https://www.replyagent.ai/blog/selling-on-reddit-complete-guide-dtc-ecommerce-brands). Practical operator playbook.
+- [WWD: Reddit's Transformation From Snarky Reviews to Beauty Marketing Tool](https://wwd.com/beauty-industry-news/beauty-features/reddit-transformation-fsnarky-reviews-beauty-marketing-tool-1238553633/) - The most-cited piece on the beauty-Reddit shift, with named brand quotes from L'Oréal and Dove.
+- [Glossy: The Reddit Beauty Opportunity](https://www.glossy.co/beauty/the-reddit-beauty-opportunity-%EF%BF%BC/) - Industry-side take with brand-level participation framing.
+- [Klarna and Reddit: Most Popular BIFL Items of 2023](https://www.klarna.com/international/press/klarna-and-reddit-unveil-the-most-popular-buy-it-for-life-items-of-2023/) - The canonical BIFL brand list, sourced from sub data.
+- [TechCrunch: Reddit's menswear hub is the latest casualty of its battle with moderators](https://techcrunch.com/2023/08/09/reddit-male-fashion-advice-mod-take-over-api-protest/) - The Derek Guy quote and the r/MFA mod-takeover history.
+- [Hacker News: r/BuyItForLife discussion](https://news.ycombinator.com/item?id=40306193) - The persistent astroturfing critique, on the record.
+- [The Snapping Point: r/SkincareAddiction mod payola scandal](https://thesnappingpoint.com/r-skincareaddiction-scam-reddit-ieatbugs/) - The 2015 case study every brand-on-Reddit conversation should reference.
+- [Replyagent: Selling on Reddit Complete Guide for DTC & Ecommerce Brands](https://www.replyagent.ai/blog/selling-on-reddit-complete-guide-dtc-ecommerce-brands) - Practical operator playbook.
 
 ---
 
 ## Related lists
 
-- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits): index of all our curated lists.
-- [Awesome Consumer Brand Subreddits](https://github.com/soarsh/awesome-consumer-brand-subreddits): for non-DTC and established CPG brands.
-- [Awesome Healthtech Subreddits](https://github.com/soarsh/awesome-healthtech-subreddits): for skincare, supplements, and wellness adjacents.
-- [Awesome Gaming Subreddits](https://github.com/soarsh/awesome-gaming-subreddits): for consumer-app and game brands.
+- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits) - Index of all our curated lists.
+- [Awesome Consumer Brand Subreddits](https://github.com/soarsh/awesome-consumer-brand-subreddits) - For non-DTC and established CPG brands.
+- [Awesome Healthtech Subreddits](https://github.com/soarsh/awesome-healthtech-subreddits) - For skincare, supplements, and wellness adjacents.
+- [Awesome Gaming Subreddits](https://github.com/soarsh/awesome-gaming-subreddits) - For consumer-app and game brands.
 
 ## Live version with brand-mention data
 
@@ -252,6 +243,3 @@ The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite a
 
 Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-
-Content under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Copy, adapt, and republish freely. Attribution appreciated, not required.
