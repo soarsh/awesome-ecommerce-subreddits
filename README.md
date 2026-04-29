@@ -1,5 +1,7 @@
 # Awesome Ecommerce Subreddits
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 The communities where DTC buyers compare brands, demand evidence, hand out and revoke recommendations, and decide which products earn a place in the canon. Curated for VPs of Marketing, brand directors, and founder-marketers at consumer brands who'd rather understand the room than barge into it.
 
 > **About this list.** Maintained by [Soar](https://soar.sh). We sell Reddit accounts and run engagement campaigns for B2B and consumer brands, so we have direct skin in the game on what works in these communities. The commentary on mod culture, removal rates, and what gets banned comes from running real campaigns across hundreds of subreddits, not desk research.
